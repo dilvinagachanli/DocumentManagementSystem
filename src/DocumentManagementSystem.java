@@ -1,14 +1,14 @@
 import javax.swing.*;
 import javax.swing.table.DefaultTableModel;
 import java.awt.*;
-import java.awt.event.*;
+
 import java.awt.image.BufferedImage;
 import java.io.*;
 import java.sql.*;
 import java.util.Arrays;
 import java.util.Scanner;
 
-import org.apache.pdfbox.io.IOUtils;
+
 import org.apache.pdfbox.io.RandomAccessRead;
 import org.apache.pdfbox.pdmodel.PDDocument;
 import org.apache.pdfbox.rendering.PDFRenderer;
